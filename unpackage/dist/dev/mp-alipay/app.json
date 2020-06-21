@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/center/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "uView",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "textColor": "#909399",
+    "selectedColor": "#303133",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/index.png",
+        "activeIcon": "static/index-selected.png"
+      },
+      {
+        "pagePath": "pages/center/index",
+        "name": "我",
+        "icon": "static/center.png",
+        "activeIcon": "static/center-selected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
