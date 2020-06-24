@@ -1,1 +1,0 @@
-<view class="data-v-4d36c86c"><view class="button-demo data-v-4d36c86c"><u-button vue-id="2cf6d598-1" ripple="{{true}}" data-event-opts="{{[['^click',[['goCenter']]]]}}" bind:click="__e" class="data-v-4d36c86c" bind:__l="__l" vue-slots="{{['default']}}">按钮组件演示</u-button></view></view>

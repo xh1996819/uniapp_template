@@ -27,7 +27,7 @@ const router = new Router({
         {
             path: '/pages/login/index',
             name: 'login'
-        },
+        }
     ]
 })
 

@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "uView-index",
-  "usingComponents": {
-    "u-button": "/uview-ui/components/u-button/u-button",
-    "u-link": "/uview-ui/components/u-link/u-link"
-  }
-}

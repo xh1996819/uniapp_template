@@ -1,1 +1,0 @@
-<view class="data-v-7debb2b2"><view class="button-demo data-v-7debb2b2"><u-button vue-id="6b4b36ba-1" ripple="{{true}}" data-event-opts="{{[['^click',[['getToken']]]]}}" bind:click="__e" class="data-v-7debb2b2" bind:__l="__l" vue-slots="{{['default']}}">获取token</u-button></view></view>
