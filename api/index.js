@@ -6,7 +6,7 @@ let api = {}
 
 files.keys().forEach(key => {
     if (key === './index.js') return
-    api = Object.assign({}, files(key))
+    api = Object.assign({}, api, files(key))
 
 })
 
